@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/SwiftSite//sitemap.xml
+Sitemap: https://austindolby223.github.io/SwiftSite//sitemap.xml
